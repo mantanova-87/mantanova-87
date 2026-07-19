@@ -3,3 +3,7 @@ I am Mantavya Kumar, a B.Tech Computer Science and Engineering (Cybersecurity) s
 I have worked on projects including a Progress Tracker Web Application, illegal mining monitoring dashboard prototype, and EmotionLens browser extension. These projects have strengthened my skills in JavaScript, Python, frontend development, databases, and deployment. I focus on building secure and practical solutions for real-world challenges.
 
 I have achieved 1st Place in the IEEE Tech Sanskriti Hackathon (IEEE Day 2025) and Faultline at Cognizance 2026 (IIT Roorkee), along with other technical recognitions. I am driven to explore new technologies and create impactful solutions in cybersecurity and software development.
+
+## 📊 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/mantanove-87?theme=dark&font=Karma&ext=contest)
