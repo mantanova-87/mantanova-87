@@ -26,10 +26,8 @@
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=mantanova-87&theme=radical&radius=10" alt="mantanova-87's Activity Graph" />
 </p>
-<div>
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/mantanove-87?theme=dark)](https://leetcode.com/mantanove-87/)
-
-</div>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/mantanove-87?theme=dark)](https://leetcode.com/mantanove-87/)
+<br/>
 
 
 
