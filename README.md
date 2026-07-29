@@ -78,8 +78,7 @@
   </a>
 </p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/mantanove-87)
-<br/>
+
 
 ## 🔗 Connect with Me
 <p align="center">
