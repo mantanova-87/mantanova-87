@@ -26,9 +26,8 @@
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=mantanova-87&theme=radical&radius=10" alt="mantanova-87's Activity Graph" />
 </p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
+[![LeetCode Stats](https://leetcard.jacoblin.cool/mantanova-87?theme=dark)](https://leetcode.com/YourUsername/)
+
 
 
 ## 🛠️ Languages & Tools
