@@ -78,7 +78,7 @@
   </a>
 </p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/YourUsername?theme=dark&font=Karma&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/mantanove-87)
 <br/>
 
 ## 🔗 Connect with Me
