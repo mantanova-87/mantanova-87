@@ -27,7 +27,7 @@
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=mantanova-87&theme=radical&radius=10" alt="mantanova-87's Activity Graph" />
 </p>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/mantanove-87)
-<br/>
+
 
 
 
@@ -78,7 +78,7 @@
   </a>
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=mantanova-87)
+![LeetCode Stats](https://leetcard.jacoblin.cool/YourUsername?theme=dark&font=Karma&ext=heatmap)
 <br/>
 
 ## 🔗 Connect with Me
