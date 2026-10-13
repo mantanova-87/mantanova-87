@@ -81,6 +81,7 @@
   </a>
 </p>
 
+[![First Design Badge](https://badges.layer5.io/assets/badges/first-design/first-design.png)](https://cloud.layer5.io/user/86bd7d32-2bb8-4dc8-97f0-f6ea7b0b2e89?tab=badges&badge=first-design)
 
 
 ## 🔗 Connect with Me
@@ -88,4 +89,3 @@
   <a href="https://www.linkedin.com/in/mantavyakumar7487"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=00FFFF" alt="Mantavya's LinkedIn"/></a>&nbsp;&nbsp;
   <a href="https://mantavyaportfolio.vercel.app/"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a>
 </p>
-[![First Design Badge](https://badges.layer5.io/assets/badges/first-design/first-design.png)](https://cloud.layer5.io/user/86bd7d32-2bb8-4dc8-97f0-f6ea7b0b2e89?tab=badges&badge=first-design)
