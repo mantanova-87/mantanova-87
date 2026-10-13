@@ -12,7 +12,7 @@
 - Android-App Development
 - Cybersecurity
 
-
+[![First Design Badge](https://badges.layer5.io/assets/badges/first-design/first-design.png)](https://cloud.layer5.io/user/86bd7d32-2bb8-4dc8-97f0-f6ea7b0b2e89?tab=badges&badge=first-design)
 ## 📊 GitHub Stats & Trophies
 <p align="center">
   <a href="https://github.com/mantanova-87">
